@@ -18,7 +18,6 @@
 - [ ] Merge Sort
 
 ## Strings
-
--[x] Crossword
+- [x] Crossword
 
 - [ ] Word Search
