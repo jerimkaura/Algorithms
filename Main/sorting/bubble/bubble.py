@@ -2,6 +2,7 @@
 def bubble_sort(list):
     for i in range(len(list)):
         for j in range(len(list)):
+            #swap two elements
             if list[j] > list[i]:
                 temp = list[j]
                 list[j] = list[i]
@@ -17,6 +18,6 @@ print("\n")
 
 bubble_sort(list)
 
-# print the soeted list
+# print the sorted list
 for i in range(len(list)):
     print(list[i], end=" ")

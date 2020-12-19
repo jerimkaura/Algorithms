@@ -42,4 +42,11 @@ print(c[0:5])
 #revese the array
 print(c[::-1])
 
-#looping t
+list = [9, 9, 6, 89, 90, 90, 90, 123, 91, 13, 12, 34, 22, 56, 70, 45, 33]
+print(list)
+print(max(list))
+print(min(list))
+
+#list compression
+h_letters = [letter for letter in 'human']
+print(h_letters)

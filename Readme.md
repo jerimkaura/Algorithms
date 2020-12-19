@@ -1,6 +1,8 @@
 # ALGORITHMS IMPLEMENTATION
 
-## Arrays
+## Arrays,Lists & Dictionaries
+- [x] Max & min
+- [x] List compression
 
 ## Backtracking
 
