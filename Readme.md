@@ -4,7 +4,6 @@
 - [x] Sudoku
 
 ## Sorting
-- [x] Bubble
-- [  ]  Merge
- 
+- [x] Bubble Sort
+- [ ] Merge Sort
 
