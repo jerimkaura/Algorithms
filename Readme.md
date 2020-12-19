@@ -5,6 +5,6 @@
 
 ## Sorting
 - [x] Bubble
-- []  Merge
+- [  ]  Merge
  
 
