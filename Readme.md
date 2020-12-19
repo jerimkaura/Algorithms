@@ -16,6 +16,8 @@
 
 - [x] Bubble Sort
 - [ ] Merge Sort
+- [ ] Heap Sort
+- [x] Selection Sort
 
 ## Strings
 - [x] Crossword
