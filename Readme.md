@@ -9,7 +9,7 @@
 ## Numbers
 
 - [x] Factors of a Number
-- [ ] Prime Factors
+- [x] Prime Factors
 - [ ] fibonacci sequence
 
 ## Sorting
