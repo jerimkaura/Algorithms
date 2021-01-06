@@ -23,5 +23,7 @@
 
 ## Strings
 - [x] Crossword
-
 - [ ] Word Search
+
+## Hashing
+- [x] Basic Implemetation
