@@ -33,10 +33,4 @@ if __name__ == "__main__":
         xs.append(s)
         ys.append(uniformity_test(s))
     print(f"Average is: {sum(ys) / len(ys)}, Max is: {max(ys)}")
-    plt.title("Uniformity Test")
-    plt.plot(xs, ys)
-    plt.xticks([i for i in range(0, 261, 10)])
-    plt.ylim([0,10])
-    plt.yticks([i for i in range(10)])
-    plt.grid()
-    plt.show()
+    
