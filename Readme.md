@@ -26,4 +26,8 @@
 - [ ] Word Search
 
 ## Hashing
-- [x] Basic Implemetation
+- [x] Basic 
+
+### Graphs
+- [x] Adjacency list implementation
+- [] Adjacency matrix implementation
