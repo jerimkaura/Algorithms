@@ -31,4 +31,5 @@
 ### Graphs
 - [x] Adjacency list implementation
 - [x] Adjacency matrix implementation
-- [x] Depth Fisrt Search
+- [x] Depth Fisrt Search iteration
+- [x] Depth Fisrt Search recursion
