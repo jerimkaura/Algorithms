@@ -16,7 +16,7 @@ def dijkstr(graph, start_node, end_node):
     # track path that lead to this node
     track_predecessor = {}
 
-    # iterate the whole graph
+    # iterate the whole graph 
     unvisited = graph
 
     # must be grather than cummulative of the nodes
