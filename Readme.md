@@ -1,34 +1,34 @@
-# ALGORITHMS IMPLEMENTATION
+### ALGORITHMS IMPLEMENTATION
 
-## Arrays,Lists & Dictionaries
+#### Arrays,Lists & Dictionaries
 - [x] Max & min
 - [x] List compression
 
-## Backtracking
+#### Backtracking
 
 - [x] Sudoku
 
-## Numbers
+#### Numbers
 
 - [x] Factors of a Number
 - [x] Prime Factors
 - [ ] fibonacci sequence
 
-## Sorting
+#### Sorting
 
 - [x] Bubble Sort
 - [ ] Merge Sort
 - [ ] Heap Sort
 - [x] Selection Sort
 
-## Strings
+#### Strings
 - [x] Crossword
 - [ ] Word Search
 
-## Hashing
+#### Hashing
 - [x] Basic 
 
-### Graphs
+#### Graphs
 - [x] Adjacency list implementation
 - [x] Adjacency matrix implementation
 - [x] Depth Fisrt Search iteration
