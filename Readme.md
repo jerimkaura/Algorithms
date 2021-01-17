@@ -1,6 +1,7 @@
 # ALGORITHMS IMPLEMENTATION
 
 ## Arrays,Lists & Dictionaries
+
 - [x] Max & min
 - [x] List compression
 
@@ -22,14 +23,18 @@
 - [x] Selection Sort
 
 ## Strings
+
 - [x] Crossword
 - [ ] Word Search
 
 ## Hashing
-- [x] Basic 
+
+- [x] Basic
 
 ### Graphs
+
 - [x] Adjacency list implementation
 - [x] Adjacency matrix implementation
 - [x] Depth Fisrt Search iteration
 - [x] Depth Fisrt Search recursion
+- [x] Breadth First Search
