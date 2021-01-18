@@ -1,12 +1,9 @@
 ### ALGORITHMS IMPLEMENTATION
 
-<<<<<<< HEAD
 ## Arrays,Lists & Dictionaries
 
 =======
 #### Arrays,Lists & Dictionaries
->>>>>>> 8b88b271163729fef54bd2fbe6dc5b7e9620a9c5
-- [x] Max & min
 - [x] List compression
 
 #### Backtracking
@@ -27,7 +24,6 @@
 - [x] Selection Sort
 - [x] Quick Sort
 
-<<<<<<< HEAD
 ## Strings
 
 - [x] Crossword
