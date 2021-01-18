@@ -25,6 +25,7 @@
 - [ ] Merge Sort
 - [ ] Heap Sort
 - [x] Selection Sort
+- [x] Quick Sort
 
 <<<<<<< HEAD
 ## Strings
