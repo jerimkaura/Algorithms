@@ -24,7 +24,7 @@ print(a)
 a.remove(15)
 print(a) 
 
-#using the pop function removinf the last elements
+#using the pop function removing the last elements
 a.pop()
 print(a)
 a.pop(3)
