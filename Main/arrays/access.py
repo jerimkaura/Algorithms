@@ -20,7 +20,7 @@ print(a)
 a.extend([12,13,14,15])
 print(a)    
 
-#removing elements using remove the first occurence element  specified
+#removing elements using remove the first occurence of element  specified
 a.remove(15)
 print(a) 
 
