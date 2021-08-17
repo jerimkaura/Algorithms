@@ -7,12 +7,12 @@ print(a[2])
 #lenght of an array
 print(len(a))
 
-#appending to an array
+#appending value to an array
 for i in range(0,10):
     a.append(i)
 print(a)   
  
-#insert takes two arguments the position and value to insert
+#insert takes two arguments the position  and value to insert
 a.insert(1,14)
 print(a) 
 
