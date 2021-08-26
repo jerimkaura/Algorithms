@@ -1,4 +1,4 @@
-"""If you're looking for a perfect crossword solver, you write some code because this aint one.
+"""If you're looking for a perfect crossword solver, sorry, you write some code because this aint one.
 This piece of code only looks for possible words given some letters and blanks of the a words i.e c w would yield
 cow & caw"""
 
