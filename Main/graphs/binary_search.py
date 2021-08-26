@@ -15,5 +15,4 @@ def binary_search(list, item):
     return None
 
 
-print(binary_search([6, 9, 12, 13, 22, 33, 34, 45, 56,
-                     70, 89, 90, 90, 90, 91, 123, 987], 987))
+print(binary_search([6, 9, 12, 13, 22, 33, 34, 45, 56, 70, 89, 90, 90, 90, 91, 123, 987], 987))
