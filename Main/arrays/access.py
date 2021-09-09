@@ -7,7 +7,7 @@ print(a[2])
 #lenght of an array
 print(len(a))
 
-#appending value to an array
+#appending value to an existing array
 for i in range(0,10):
     a.append(i)
 print(a)   
