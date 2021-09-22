@@ -1,3 +1,5 @@
+
+# selection sort
 def selection_sort(unsorted):
     sorted =[]
     while len(unsorted) !=0:
