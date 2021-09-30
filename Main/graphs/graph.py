@@ -13,14 +13,17 @@ class Graph:
         for node in self.nodes:
             self.adjascenct_list[node] = []
 
+    # add an edge to the graph
     def add_edge(self, v, e):
         self.adjascenct_list[v].append(e)
         if not self.is_directed:
             self.adjascenct_list[e].append(v)
 
+    # find the degree of a given vertex
     def vertext_degree(self, node):
         return len(self.adjascenct_list[node])
 
+    # print the outcome
     def print_adj(self):
         for node in self.nodes:
             print(node, ":", self.adjascenct_list[node])
