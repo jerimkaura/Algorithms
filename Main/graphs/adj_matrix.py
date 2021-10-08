@@ -20,7 +20,7 @@ def myfunc():
         v = edge_v[i]
         adjMatrix[u][v] = 1
 
-    print("Adjacency matrix: ")
+    print("The Adjacency matrix is: ")
     printMatrix(adjMatrix)
 
 if __name__ == "__main__":
