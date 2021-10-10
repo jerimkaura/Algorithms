@@ -2,12 +2,14 @@
 This piece of code only looks for possible words given some letters and blanks of the a words i.e c w would yield
 cow & caw"""
 
+# open tjhe file in reading mode
 def getDictionary():
     openDictionary = open('dictionary.txt', 'r')
     dictionary = openDictionary.read().split()
     openDictionary.close()
     return dictionary
 
+# the solver function
 def solver(string,dictionary):
     nonBlanks = len(string) - string.count(' ')#finding the number of non-blank spaces
     for word in dictionary:
