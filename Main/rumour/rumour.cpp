@@ -36,7 +36,6 @@ void Sender::Blind(Receivers *obj,int len){
 // Only looses interest if probability prob is less than  k
 //It does not check how many nodes have received the Gossip so no counter is kept
 while(k<=prob){
-    
 	//If the probability is out of range it sends the message whether or not the node had received it earlier
 	//Select A Random Receiver
 	int ran = ((rand()%len)+1)-1;
