@@ -11,7 +11,7 @@ def bubble_sort(list):
 
 list = [9, 6, 89, 123, 91, 13, 12, 34, 22, 56, 70, 45, 33]
 
-# print the unsorted list
+# printing the unsorted list
 for i in range(len(list)):
     print(list[i], end=" ")
 print("\n")
